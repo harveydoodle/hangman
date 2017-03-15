@@ -1,0 +1,40 @@
+#hangmandisplay {
+    font-size: 35px;
+    font-weight:bold;
+}
+h1 {
+    font-size: 35px;
+}
+#border-bottom0 {
+    border-bottom: 5px black solid;
+    font-size: 55px;
+    color: rgba(255, 255, 255, 0);
+    font-size: 50px;
+}
+#border-bottom1 {
+    border-bottom: 5px black solid;
+    font-size: 55px;
+    color: rgba(255, 255, 255, 0);
+    font-size: 50px;
+}
+#border-bottom2 {
+    border-bottom: 5px black solid;
+    font-size: 55px;
+    color: rgba(255, 255, 255, 0);
+    font-size: 50px;
+}
+#border-bottom3 {
+    border-bottom: 5px black solid;
+    font-size: 55px;
+    color: rgba(255, 255, 255, 0);
+    font-size: 50px;
+}
+.answerblank {
+    font-size: 50px;
+}
+body {  
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-size: 20px 20px;
+    background-image: linear-gradient(to right, lightgrey 1px, transparent 1px), 
+                      linear-gradient(to bottom, lightgrey 1px, transparent 1px);
+}
